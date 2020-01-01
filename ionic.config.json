@@ -1,0 +1,7 @@
+{
+  "name": "PocketReader",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "angular"
+}
